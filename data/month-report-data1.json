@@ -1,0 +1,76 @@
+{
+  "monthSR": [
+    {
+      "month": "21/03",
+      "finished": 25,
+      "receive": 33,
+      "unfinished": 55
+    },
+    {
+      "month": "21/04",
+      "finished": 33,
+      "receive": 30,
+      "unfinished": 52
+    },
+    {
+      "month": "21/05",
+      "finished": 22,
+      "receive": 22,
+      "unfinished": 52
+    },
+    {
+      "month": "21/06",
+      "finished": 34,
+      "receive": 21,
+      "unfinished": 39
+    },
+    {
+      "month": "21/07",
+      "finished": 19,
+      "receive": 21,
+      "unfinished": 41
+    },
+    {
+      "month": "21/08",
+      "finished": 34,
+      "receive": 37,
+      "unfinished": 44
+    },
+    {
+      "month": "21/09",
+      "finished": 26,
+      "receive": 25,
+      "unfinished": 55
+    },
+    {
+      "month": "21/10",
+      "finished": 14,
+      "receive": 20,
+      "unfinished": 49
+    },
+    {
+      "month": "21/11",
+      "finished": 25,
+      "receive": 17,
+      "unfinished": 24
+    },
+    {
+      "month": "21/12",
+      "finished": 26,
+      "receive": 27,
+      "unfinished": 25
+    },
+    {
+      "month": "22/01",
+      "finished": 18,
+      "receive": 13,
+      "unfinished": 20
+    },
+    {
+      "month": "22/02",
+      "finished": 17,
+      "receive": 15,
+      "unfinished": 18
+    }
+  ]
+}
